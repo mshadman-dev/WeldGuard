@@ -1,0 +1,12 @@
+
+# WeldGuard local and private files
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+.streamlit/secrets.toml
+.env
+.DS_Store
